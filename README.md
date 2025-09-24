@@ -41,7 +41,6 @@ To get started with Surf To Earn, follow these steps:
 ## Coming Soon...
 
 - Referral system
-- Crypto withdrawal integration
 - Daily bonus & streak rewards
 - Advertiser analytics dashboard
 
